@@ -22,3 +22,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+
+#1 - Add rating stars
+#2 - Add index by rating (Second table)
